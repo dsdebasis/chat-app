@@ -11,7 +11,7 @@ const ChatBox = () => {
         <Serach />
        <Conversations/>
         <div className='fixed bottom-3 px-3'><LogoutBtn /></div>
-      </div>
+      </div> 
       <ChatArea/>
     </div>
   )
